@@ -1,5 +1,7 @@
 // raylib Apple Catcher
 // Andrew Hamel Codes
+// https://github.com/AndrewHamel111/raylib-AppleCatcher
+// https://youtu.be/jWo3uzYbb7Y
 
 #include <stdlib.h>
 #include <time.h>
